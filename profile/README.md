@@ -5,4 +5,12 @@
 
 **Change your avatar, everywhere, in one click**
 
-</div
+</div>
+
+<br/>
+
+<div align="center">
+
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=my-avatar&layout=compact&theme=tokyonight)
+
+</div>
